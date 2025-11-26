@@ -1,6 +1,5 @@
 # 🐍 Python OOP: Operator Overloading (Less Than `<`)
-## NAME :RAJA GOPAL V
-## REG NO: 212223240134
+
 ## 🎯 AIM
 
 To write a Python program that demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class.
