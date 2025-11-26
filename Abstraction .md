@@ -1,6 +1,4 @@
 # 🐍 Python OOP: Abstract Class & Method Example
-## NAME : RAJA GOPAL V
-## REG NO: 212223240134
 
 ## 🎯 AIM
 
